@@ -24,6 +24,8 @@ https://pan.baidu.com/s/1Kttt1SDjJLxYYzUaefuADw?pwd=c4ju <br>
 6. deep_spectral_segmentation: https://pan.baidu.com/s/10xH5as8g3Q8jmB0jA9nflw?pwd=rgu4 <br>
 If you want to reproduce the SOTA experiments, simply unzip the above archive into a directory parallel to the "code" folder. <br>
 
+## Other instructions:
+If you have any questions regarding the file download or the article, feel free to contact me at: 231020050@fzu.edu.cn
 
 
 
